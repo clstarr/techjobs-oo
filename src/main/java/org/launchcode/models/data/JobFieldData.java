@@ -1,3 +1,4 @@
+
 package org.launchcode.models.data;
 
 import org.launchcode.models.Job;
